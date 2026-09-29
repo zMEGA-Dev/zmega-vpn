@@ -95,9 +95,7 @@ We may update this Privacy Policy from time to time. Changes will be reflected b
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** privacy@zmega.app  
-**Website:** https://zmega.app
-
+**Email:** zmega.tmz@gmail.com 
 ---
 
 *This privacy policy applies to the zMEGA VPN browser extension for Chrome, Firefox, Edge, and Opera.*
